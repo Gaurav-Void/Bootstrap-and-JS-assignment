@@ -1,1 +1,1 @@
-# Bootstrap-and-JS-Assignment
+# Bootstrap and JS assignment
